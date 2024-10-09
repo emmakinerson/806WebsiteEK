@@ -3,17 +3,18 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/Headshot Professional.jpg
 ---
 
 :::{#me}
 
 ## Goals
+I aim to help improve understanding of knowledge gaps related to plant-microbe interactions to be able to help create innovative solutions to real world challenges within agriculture.
 
 ## Education
+I completed my undergraduate degree in Cellular and Moleculary Biology at Coastal Carolina University in 2023. I am currently pursuing my PhD in Molecular and Evolutionary Systems Biology at the University of New Hampshire. 
 
 ## Experience
-
+2023-2024: Biochemistry Technician contracted at the EPA 
 :::
 
-Thanks for checking out my web site!

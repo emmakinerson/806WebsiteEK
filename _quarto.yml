@@ -3,24 +3,24 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "Emma Kinerson's Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - projects.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
+      - icon: linkedin
+        href: https://in.linkedin.com/in/www.linkedin.com/in/www.linkedin.com/in/emma-kinerson-b73a99213 class="social-icon si-rounded si-small si-linkedin" target="_blank"
       - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+        href: https://github.com/emmakinerson/806WebsiteEK
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2023, Emma Kinerson"
 
 format:
   html:
-    theme: cerulean
+    theme: Litera
     toc: true
 
 editor: source
